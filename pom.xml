@@ -11,7 +11,7 @@
 	<groupId>com.anderson.example</groupId>
 	<artifactId>API</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>API</name>
 	<description>Demo project API for Spring Boot</description>
 	<properties>
